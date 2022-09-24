@@ -303,6 +303,8 @@ This is a list of links that had helped me learn Figma and moving from Sketch. I
     [Building a design system using Figma and Zeroheight](https://uxdesign.cc/building-a-design-system-using-figma-and-zeroheight-bfa92b5fefcf)
 
     [Figma ❤️ Lottie](https://www.chicken.tacos.wtf)
+    
+    [Figma ❤️ Localizely](https://localizely.com/figma-integration/)
 
     [Think You Can't Animate Your Figma Designs? Think Again! [figma + protopie]](https://www.youtube.com/watch?v=dvUCW7PZ5CY)
 
